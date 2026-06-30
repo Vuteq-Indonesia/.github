@@ -72,7 +72,6 @@ Repositori ini memuat pengembangan sistem teknologi yang esensial bagi operasion
   </tr>
 </table>
 
-*(Silakan ubah URL href dan atribut `src` gambar sesuai dengan username GitHub tim internal yang sebenarnya)*
 
 ---
 
